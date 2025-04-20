@@ -132,3 +132,7 @@
 {"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/prediction/predict-mental-health\",\"status\":\"200\",\"responseTime\":\"1370.857\"}","timestamp":"2025-04-20T05:44:00.845Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/prediction/predict-mental-health\",\"status\":\"200\",\"responseTime\":\"562.567\"}","timestamp":"2025-04-20T05:44:01.411Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/prediction/predict-mental-health\",\"status\":\"400\",\"responseTime\":\"119.787\"}","timestamp":"2025-04-20T05:50:34.311Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/auth/check-auth\",\"status\":\"304\",\"responseTime\":\"43.362\"}","timestamp":"2025-04-20T06:23:08.442Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/auth/check-auth\",\"status\":\"304\",\"responseTime\":\"33.175\"}","timestamp":"2025-04-20T06:23:08.478Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/prediction/predict-mental-health\",\"status\":\"304\",\"responseTime\":\"802.893\"}","timestamp":"2025-04-20T06:23:09.283Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/prediction/predict-mental-health\",\"status\":\"200\",\"responseTime\":\"1239.702\"}","timestamp":"2025-04-20T06:23:10.525Z"}
