@@ -51,9 +51,12 @@ const PORT = process.env.PORT || 4000;
 
 // App routes
 import { authRouter } from "./src/routes/auth.route.js";
-
+import {dataIntakeRouter} from "./src/routes/dataIntake.route.js"
+import {riskRouter} from "./src/routes/risk.route.js";
 
 app.use("/api/v1/auth", authRouter);
+app.use("/api/v1/data",dataIntakeRouter);
+app.use("/api/v1/prediction",riskRouter);
 
 // App started
 connectDb()
